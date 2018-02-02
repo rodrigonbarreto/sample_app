@@ -23,6 +23,7 @@ gem 'unicorn'
 
 group :development, :test do
   gem 'pry-rails'
+  gem "rubocop-rails"
 end
 
 group :development do
